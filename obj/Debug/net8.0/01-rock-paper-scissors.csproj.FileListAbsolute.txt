@@ -1,0 +1,14 @@
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\bin\Debug\net8.0\01-rock-paper-scissors.exe
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\bin\Debug\net8.0\01-rock-paper-scissors.deps.json
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\bin\Debug\net8.0\01-rock-paper-scissors.runtimeconfig.json
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\bin\Debug\net8.0\01-rock-paper-scissors.dll
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\bin\Debug\net8.0\01-rock-paper-scissors.pdb
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\obj\Debug\net8.0\01-rock-paper-scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\obj\Debug\net8.0\01-rock-paper-scissors.AssemblyInfoInputs.cache
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\obj\Debug\net8.0\01-rock-paper-scissors.AssemblyInfo.cs
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\obj\Debug\net8.0\01-rock-paper-scissors.csproj.CoreCompileInputs.cache
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\obj\Debug\net8.0\01-rock-paper-scissors.dll
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\obj\Debug\net8.0\refint\01-rock-paper-scissors.dll
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\obj\Debug\net8.0\01-rock-paper-scissors.pdb
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\obj\Debug\net8.0\01-rock-paper-scissors.genruntimeconfig.cache
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\01-rock-paper-scissors\obj\Debug\net8.0\ref\01-rock-paper-scissors.dll
